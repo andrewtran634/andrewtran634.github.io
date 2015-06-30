@@ -4,11 +4,15 @@
 		font-family: 
 	}   
 
+	h1 {
+		color: white;
+	}
+	
 	body {
 		font-family: "Droid Sans";
 	}
 	body p {
-	 color: rgba(2, 167, 167, .8);
+	 color: rgb(111, 12, 111);
 	}
     a {
         text-decoration:none;
@@ -27,13 +31,14 @@
         height:100vh;
         border: 0px;
         text-align:center;
+		display:inline-block
     }
      #skatelocal {
         padding-top:0px;
         padding-left:0px;
         padding: 0;
 		width:100%;
-        background-color: #EFFFFF;
+        background-color: rgb(205, 153, 153);
         margin: 0px;
         height:100%;
         border: 0px;
@@ -50,10 +55,17 @@
         border: 0px;
         text-align:center;
     }
+	#statement {
+		padding: 20px;
+		background-color: rgb(117, 117, 163);
+	}
+	#name {
+		margin-top:10%;
+	}
     #pic {
         height: 250px;
         width: 250px;
-        border-radius: 50%;
+        border-radius: 4px;
         position:relative;
         display:block;
         margin-left:auto;
@@ -78,10 +90,11 @@
         padding: 0;
         height: 100%;
         width: 100%;
-        background-color: #E4F1E4;
+        background-color: rgb(156, 206, 180);
         display: inline-block;
     }
     #screen {
+		display:inline-block;
 		background-size: cover;
 		height:100%;
 		width:100%;
@@ -169,6 +182,7 @@
 		font-size: 80px;
 	}
 	#projects {
+		text-align:center;
 		background-color: gray;
 	}
 	#cont {
@@ -179,6 +193,10 @@
 		margin-left:auto;
 		margin-right:auto;
 		padding: 20px;
+	}
+	#ptext {
+		float:left;
+		margin-top:30%;
 	}
 	#skate {
 		height:50%;
@@ -216,6 +234,7 @@
 	  stroke-dashoffset: 2000;
 	  animation: dash 20s linear reverse;
 	}
+	
 	@keyframes dash {
 	  from {
 		stroke-dashoffset: 2000;
@@ -228,14 +247,14 @@
 		padding: 20px;
 	}
 	#paragraph a {
-		color: rgba(255, 167, 167, 1);
+		color: rgba(205, 255, 255, .7);
 		text-decoration: none;
 	}
 	#paragraph a:hover {
 		color: grey;
 	}
 	#paragraph a:visited {
-		color: rgba(255, 167, 167, 1);
+		color: rgba(205, 255, 255, .7);
 		text-decoration: none;
 	}
 
