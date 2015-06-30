@@ -247,14 +247,14 @@
 		padding: 20px;
 	}
 	#paragraph a {
-		color: rgba(205, 255, 255, .7);
+		color: rgb(205, 153, 153);
 		text-decoration: none;
 	}
 	#paragraph a:hover {
 		color: grey;
 	}
 	#paragraph a:visited {
-		color: rgba(205, 255, 255, .7);
+		color: rgb(205, 153, 153);
 		text-decoration: none;
 	}
 
