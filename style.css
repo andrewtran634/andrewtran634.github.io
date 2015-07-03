@@ -60,7 +60,7 @@
 		background-color: rgb(117, 117, 163);
 	}
 	#name {
-		margin-top:10%;
+		margin-top:4%;
 	}
     #pic {
         height: 250px;
@@ -155,7 +155,7 @@
 		display: inline-block;
 	}
 	#navelt {
-		padding: 20px;
+		padding: 7px;
 	}
 	#naveltII {
 		padding: 20px;
