@@ -152,13 +152,13 @@
 	#nav div {
 		margin-left:auto;
 		margin-right:auto;
-		display: inline-block;
+		/*display: inline-block;*/
 	}
 	#navelt {
-		padding: 20px;
+		padding: 10px;
 	}
 	#words {
-		height:100%;
+		height:10%;
 		width:50%;
 		border-radius:4px;
 		background-color: rgba(244, 255, 255, .8);
