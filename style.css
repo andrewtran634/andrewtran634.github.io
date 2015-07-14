@@ -107,20 +107,17 @@
 	.logo {
 		cursor:pointer;
 	}
-	path:hover {
-		stroke:#FFFFFF;
-	}
 	#logo {
-		height:100%;
 		width:100%;
+		height:100%;
 	}
 	#web {
+		width:100%;
 		height:100%;
-		width:100%;	
 	}
 	#me {
+		width:100%;
 		height:100%;
-		width:100%;	
 	}
 	#ping {
 		visibility:visible;
@@ -147,7 +144,6 @@
         background-image: url("bubbles.jpg");
 	}
 	#nav {
-		font-size: 25px;
 		padding-top:2%;
 	}
 	#nav div {
@@ -156,9 +152,12 @@
 	}
 	#navelt {
 		padding: 4px;
-		width:20%;
+		width:300px;
+		height:200px;
 	}
 	#words {
+		width:200px;
+		height:150px;
 		border-radius:4px;
 		background-color: rgba(244, 255, 255, .8);
 	}
@@ -181,7 +180,7 @@
 	}
 	#cont {
 		text-align: center;
-		padding:60px;
+		padding:40px;
 	}
 	#pics {
 		margin-left:auto;
