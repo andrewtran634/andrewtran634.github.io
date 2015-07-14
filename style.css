@@ -107,21 +107,27 @@
 	.logo {
 		cursor:pointer;
 	}
+<<<<<<< HEAD
 	path:hover {
 		stroke:#FFFFFF;
 	}
-	/*#logo {
+	#logo {
 		height:100%;
+	#logo {
 		width:100%;
+		height:100%;
 	}
 	#web {
+		width:100%;
 		height:100%;
-		width:100%;	
 	}
 	#me {
+		width:100%;
 		height:100%;
+<<<<<<< HEAD
 		width:100%;	
-	}*/
+	}
+	}
 	#ping {
 		visibility:visible;
 	}
@@ -147,26 +153,29 @@
         background-image: url("bubbles.jpg");
 	}
 	#nav {
-		font-size: 25px;
-		padding-top:5%;
+		padding-top:2%;
 	}
 	#nav div {
 		margin-left:auto;
 		margin-right:auto;
-		/*display: inline-block;*/
 	}
 	#navelt {
+<<<<<<< HEAD
 		height:10%;
 		width:30%;
 		padding: 4px;
 	}
 	#words {
+=======
+		padding: 4px;
+	}
+	#words {
+		width:200px;
+		height:150px;
 		border-radius:4px;
 		background-color: rgba(244, 255, 255, .8);
-		color:black;
 	}
 	#words:hover {
-        color:white;
         background-color:rgba(255, 167, 167, .8);
         -o-transition:.5s;
         -ms-transition:.5s;
@@ -185,7 +194,7 @@
 	}
 	#cont {
 		text-align: center;
-		padding:60px;
+		padding:40px;
 	}
 	#pics {
 		margin-left:auto;

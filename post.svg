@@ -3,22 +3,18 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="400px" height="280px" viewBox="0 0 400 280" enable-background="new 0 0 400 280" xml:space="preserve">
+<path fill="#F5F5BE" stroke="#F5F5BE" stroke-miterlimit="10" d="M200.745,207.565c-23.074-74.832,80.399-189.806,80.399-189.806
+	s36.79,123.673-34.021,163.859L200.745,207.565z"/>
 <g>
 	<g>
-		<path d="M283.043,22.558c-26.722,39.957-53.445,79.913-80.167,119.87c-13.807,20.644-27.613,41.288-41.42,61.932
-			c-0.781,1.168,0.758,3.867,0,5c26.722-39.957,53.445-79.913,80.167-119.87c13.807-20.644,27.613-41.288,41.42-61.932
-			C283.824,26.39,282.285,23.692,283.043,22.558L283.043,22.558z"/>
+		<path d="M264.957,52.191c-19.37,45.729-38.74,91.458-58.11,137.187c-5.462,12.895-10.924,25.79-16.387,38.685
+			c-0.604,1.426,0.592,3.601,0,5c19.37-45.729,38.74-91.458,58.11-137.187c5.462-12.895,10.924-25.79,16.387-38.685
+			C265.561,55.765,264.364,53.59,264.957,52.191L264.957,52.191z"/>
 	</g>
 </g>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M218.237,188.88"/>
-<path fill="#EBEB7C" stroke="#000000" stroke-miterlimit="10" d="M178.247,181.753C146.2,130.464,283.85,23.852,283.85,23.852
-	L178.247,181.753z"/>
-<path fill="#F5F5BE" stroke="#000000" stroke-miterlimit="10" d="M178.247,181.753C273.096,120.964,283.85,23.852,283.85,23.852
-	L178.247,181.753z"/>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M332,105.702"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="162.765" y1="207.289" x2="107.152" y2="226.884"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="106.5" y1="227" x2="106.5" y2="247"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="106.705" y1="246.961" x2="94.66" y2="236.923"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="94.5" y1="237" x2="94.5" y2="247"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="94.214" y1="246.961" x2="67" y2="257"/>
+<path fill="none" stroke="#F5F5BE" stroke-miterlimit="10" d="M190.856,232.925c0,0-93.913,4.717-29.762,15.094
+	s-46.698,14.151-46.698,14.151"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="237.925" y1="167.189" x2="213.233" y2="179.728"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="240.925" y1="158.189" x2="216.233" y2="170.728"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="247.925" y1="140.189" x2="223.233" y2="152.728"/>
 </svg>
