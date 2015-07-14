@@ -110,7 +110,7 @@
 	path:hover {
 		stroke:#FFFFFF;
 	}
-	#logo {
+	/*#logo {
 		height:100%;
 		width:100%;
 	}
@@ -121,7 +121,7 @@
 	#me {
 		height:100%;
 		width:100%;	
-	}
+	}*/
 	#ping {
 		visibility:visible;
 	}
@@ -156,11 +156,11 @@
 		/*display: inline-block;*/
 	}
 	#navelt {
-		padding: 10px;
+		height:10%;
+		width:30%;
+		padding: 4px;
 	}
 	#words {
-		height:10%;
-		width:50%;
 		border-radius:4px;
 		background-color: rgba(244, 255, 255, .8);
 		color:black;
