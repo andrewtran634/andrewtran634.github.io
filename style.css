@@ -4,6 +4,9 @@
 		font-family: 
 	}   
 
+	pre {
+		font-size:1.5em;
+	}
 	h1 {
 		color: white;
 	}
@@ -13,6 +16,7 @@
 	}
 	body p {
 	 color: rgb(111, 12, 111);
+	 font-size: 1.1em;
 	}
     a {
         text-decoration:none;
@@ -158,8 +162,10 @@
 	#nav div {
 		margin-left:auto;
 		margin-right:auto;
+		display: inline-block;
 	}
 	#navelt {
+<<<<<<< HEAD
 <<<<<<< HEAD
 		height:10%;
 		width:30%;
@@ -172,10 +178,14 @@
 	#words {
 		width:200px;
 		height:150px;
+=======
+		margin: 8px;
+		width:10%;
+>>>>>>> cb5bf3e988fa27f30a294358ac35e44539c9aafe
 		border-radius:4px;
 		background-color: rgba(244, 255, 255, .8);
 	}
-	#words:hover {
+	#navelt:hover {
         background-color:rgba(255, 167, 167, .8);
         -o-transition:.5s;
         -ms-transition:.5s;
@@ -183,7 +193,11 @@
         -webkit-transition:.5s;
         /* ...and now for the proper property */
         transition:.5s;
-    }	
+	}
+	#words {
+
+	}
+
 	#wordsII p {
 		padding-top:;
 		font-size: 80px;
@@ -267,9 +281,20 @@
 		color: rgb(117, 117, 163);
 		text-decoration: none;
 	}
-
+	#line div {
+		display: inline-block;
+	}
 	/*@media screen and (max-width: 1000px) {
 		#nav {
 			display: block;
 		}
 	}*/
+@media only screen and (max-width : 768px) {
+
+	#nav div{
+		display: block;
+	}
+	#navelt {
+		width: 20%;
+	}
+}
