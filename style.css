@@ -5,7 +5,7 @@
 	}   
 
 	pre {
-		font-size:1.5em;
+		font-size:1em;
 	}
 	h1 {
 		color: white;
@@ -16,7 +16,7 @@
 	}
 	body p {
 	 color: rgb(111, 12, 111);
-	 font-size: 1.1em;
+	 font-size: 1em;
 	}
     a {
         text-decoration:none;
@@ -67,7 +67,7 @@
 		margin-top:4%;
 	}
     #pic {
-        height: 250px;
+		height:250px;
         width: 250px;
         border-radius: 4px;
         position:relative;
@@ -214,6 +214,8 @@
 	#naveltII {
 		padding:4px;
 	}
+	#ill {
+	}
 	#links:hover {
         color:white;
         background-color:rgba(255, 167, 167, .8);
@@ -265,12 +267,18 @@
 			display: block;
 		}
 	}*/
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 500px) {
 
 	#nav div{
 		display: block;
 	}
 	#navelt {
 		width: 20%;
+	}
+	#pic {
+		width:80%;
+	}
+	#ill {
+		width: 80%;
 	}
 }
