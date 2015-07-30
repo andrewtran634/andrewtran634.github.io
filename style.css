@@ -262,11 +262,6 @@
 	#line div {
 		display: inline-block;
 	}
-	/*@media screen and (max-width: 1000px) {
-		#nav {
-			display: block;
-		}
-	}*/
 @media only screen and (max-width : 500px) {
 
 	#nav div{
@@ -276,9 +271,13 @@
 		width: 20%;
 	}
 	#pic {
+		height:0%;
 		width:80%;
 	}
 	#ill {
 		width: 80%;
+	}
+	#skate {
+		width:100%;
 	}
 }
