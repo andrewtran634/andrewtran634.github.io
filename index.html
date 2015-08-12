@@ -16,7 +16,19 @@
 	<script src="morestuff.js"></script>
 	<meta name="viewport" content="width=device-width" />
 	<staticContent><mimeMap fileExtension=".svg" mimeType="image/svg+xml" /></staticContent>
+	
+	<script>
+		//LET'S DETECT SUM BROWSERS
+		$(document).ready(function() {
+			if($.browser.mozilla) {
+				$('#nav div').css('display', 'block');
+			}
+			if($.browser.safari || $.browser.msie) {
+				$('path').removeClass('path')
+			}
+		});
 
+	</script>
 
     <script>
         $(document).ready(function(){
