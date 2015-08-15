@@ -227,16 +227,10 @@
         transition:.5s;
     }	
 	.path {
-	  stroke-dasharray: 2000;
+	  /*stroke-dasharray: 2000;
 	  stroke-dashoffset: 2000;
-	  animation: dash 20s linear forwards;
+	  animation: dash 20s linear forwards;*/
 	}
-	.rpath {
-	  stroke-dasharray: 2000;
-	  stroke-dashoffset: 2000;
-	  animation: dash 20s linear reverse;
-	}
-	
 	@keyframes dash {
 	  from {
 		stroke-dashoffset: 2000;
