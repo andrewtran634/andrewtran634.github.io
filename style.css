@@ -108,6 +108,9 @@
         background-repeat: no-repeat;
 		background-position: center;
     }
+	svg {
+		max-height:100%;
+	}
 	#logo {
 		cursor:pointer;
 		width:100%;
