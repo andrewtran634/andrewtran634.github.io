@@ -108,12 +108,14 @@
         background-repeat: no-repeat;
 		background-position: center;
     }
-	.logo {
-		cursor:pointer;
-	}
 	#logo {
+		cursor:pointer;
 		width:100%;
 		height:100%;
+	}
+	#logo[style] {
+		width:none !important;
+		height:none !important;
 	}
 	#web {
 		width:100%;

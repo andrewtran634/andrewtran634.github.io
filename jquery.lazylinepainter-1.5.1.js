@@ -72,12 +72,12 @@
                     if (options.height === null) {
                         options.height = h;
                     }
-                    if (!options.responsive) {
+                    /*if (!options.responsive) {
                         $this.css({
                             'width': options.width,
                             'height': options.height
                         });
-                    }
+                    }*/
 
                     // create svg
                     var svg = getSVGElement('0 0 ' + w + ' ' + h);
