@@ -94,7 +94,7 @@
 	}
     #andy {
         padding: 0;
-        height:100vh;
+        height:100%;
         width: 100%;
         background-color: rgb(156, 206, 180);
         display: inline-block;
